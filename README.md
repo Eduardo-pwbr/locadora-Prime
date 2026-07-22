@@ -5,7 +5,7 @@ Este projeto utiliza uma API externa que requer autenticação através de uma c
 
 Você pode criar sua chave acessando o site da API:
 
-👉 https://www.themoviedb.org/  
+👉 https://brasilprimeflix.netlify.app
 (Crie uma conta e gere sua API Key)
 
 ### 🚀 Como configurar
