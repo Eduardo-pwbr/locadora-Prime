@@ -1,3 +1,4 @@
+## Link do meu projeto: https://brasilprimeflix.netlify.app
 
 ## 🔐 Configuração da API Key (.env)
 
@@ -5,7 +6,7 @@ Este projeto utiliza uma API externa que requer autenticação através de uma c
 
 Você pode criar sua chave acessando o site da API:
 
-👉 https://brasilprimeflix.netlify.app
+👉 https://www.themoviedb.org/
 (Crie uma conta e gere sua API Key)
 
 ### 🚀 Como configurar
